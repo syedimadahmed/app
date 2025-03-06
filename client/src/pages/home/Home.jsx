@@ -1,8 +1,13 @@
 import React from 'react'
+import Hero from './Hero'
+import HowTo from './HowTo'
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <div className='min-h-screen'>
+      <Hero/>
+      <HowTo/>
+    </div>
   )
 }
 

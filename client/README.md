@@ -4,4 +4,6 @@ Front End - React
 
 ## NPM Packages
 
-- Axios
+- Axios (API Calls)
+- TailwindCSS (Styling)
+- React Router (Routing)
